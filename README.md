@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Manthan Terse</h1>
 <h3 align="center">Aspiring Engineer | Python Learner | Data Science Explorer | NHITM'28 </h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Mini+Projects+%F0%9F%92%A1;Learning+Python+%26+DSA+%F0%9F%90%8D;Open+for+collaborations+%F0%9F%91%8D">
+</p>
 ---
 
 ## 🚀 About Me
@@ -52,6 +54,9 @@
 </a>
 <a href="mailto:tersemanthan2006@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/manthanterse/">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 ---
