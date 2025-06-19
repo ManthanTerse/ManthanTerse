@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
-
 ---
 
 ## 📈 GitHub Stats
