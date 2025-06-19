@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Mini+Projects+%F0%9F%92%A1;Learning+Python+%26+DSA+%F0%9F%90%8D;Open+for+collaborations+%F0%9F%91%8D">
 </p>
+
+
 ---
 
 ## 🚀 About Me
