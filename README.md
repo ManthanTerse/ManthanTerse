@@ -1,8 +1,7 @@
-<p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" />   
-<h1 align="right">Welcome to My GitHub 👋</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
-
+<h1 align="right">Welcome to My GitHub 👋</h1>
 <h3 align="center">I'm Manthan Terse — Python Developer | Student Engineer | AI & Data Science Explorer | NHITM'28 🚀</h3>
 
 <p align="center">
