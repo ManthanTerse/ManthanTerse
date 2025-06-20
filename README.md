@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
-
 
 <h1 align="center">Welcome to My GitHub 👋</h1>
 <h3 align="center">I'm Manthan Terse — Python Developer | Student Engineer | AI & Data Science Explorer | NHITM'28 🚀</h3>
@@ -75,8 +74,8 @@
 
 | Project Name                            | Status     | Link                                           |
 |----------------------------------------|------------|------------------------------------------------|
-| Who Wants To Be A Millionaire 🎮        | ✅ Complete | [View Project](https://github.com/manthanterse/millionaire-quiz-game) |
-| Tip Calculator 💸                       | ✅ Complete | [View Project](https://github.com/manthanterse/tip-calculator) |
+| Who Wants To Be A Millionaire 🎮        | ✅ Complete | [View Project](https://github.com/ManthanTerse/Who_Wants_To_Be_A_Millionare) |
+| Tip Calculator 💸                       | ✅ Complete | [View Project](https://github.com/ManthanTerse/Tip_Calculator) |
 | Grocery Store Management 🛒            | ✅ Complete | [View Project](https://github.com/manthanterse/grocery-store-management) |
 | ...More projects coming every 3 days!  | 🚧 In Progress | - |
 
