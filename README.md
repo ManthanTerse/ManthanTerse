@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Welcome to My GitHub 👋</h1>
-<h3 align="center">I'm Manthan Terse — Python Developer | Student Engineer | Project Builder | Data Science Explorer | NHITM'28 🚀</h3>
+<h3 align="center">I'm Manthan Terse — Python Developer | Student Engineer | AI & Data Science Explorer | NHITM'28 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub+Profile!%F0%9F%91%8D">
@@ -53,14 +53,10 @@
 
 | Program / Event                                         | Organizer                                           | Credential / Proof |
 |---------------------------------------------------------|-----------------------------------------------------|--------------------|
-| SQL Bootcamp                                            | LetsUpgrade                                         | (![SQL bootcamp](https://github.com/user-attachments/assets/5e235b0f-5426-44c0-b0ba-36801f1b2463)
-) |
-| Gen AI with Retrieval-Augmented Generation Workshop     | NHITM (for ADSA Students)                           | ![WhatsApp Image 2025-06-20 at 11 13 16_4a1b834b](https://github.com/user-attachments/assets/f911aa21-7320-457b-ab1a-541cea84bfc4)
- |
-| C Programming Fundamentals                              | Simplilearn                                         | (![image](https://github.com/user-attachments/assets/0bcb3bb9-8fda-42a9-a903-e1764c341dfc)
-)         |
-| Python Basics                                           | Infosys_Springboard                                 | ![image](https://github.com/user-attachments/assets/4287cb29-500b-4e94-a764-cd412f4981f4)
-|
+| SQL Bootcamp                                            | LetsUpgrade                                         | (![SQL bootcamp](https://github.com/user-attachments/assets/5e235b0f-5426-44c0-b0ba-36801f1b2463)|
+| Gen AI with Retrieval-Augmented Generation Workshop     | NHITM (for ADSA Students)                           | ![WhatsApp Image 2025-06-20 at 11 13 16_4a1b834b](https://github.com/user-attachments/assets/f911aa21-7320-457b-ab1a-541cea84bfc4) |
+| C Programming Fundamentals                              | Simplilearn                                         | (![image](https://github.com/user-attachments/assets/0bcb3bb9-8fda-42a9-a903-e1764c341dfc) |
+| Python Basics                                           | Infosys_Springboard                                 | ![image](https://github.com/user-attachments/assets/4287cb29-500b-4e94-a764-cd412f4981f4)  |
 
 
 ---
