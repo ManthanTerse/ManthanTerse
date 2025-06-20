@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIP9FnU07I3VfaRa/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Manthan Terse</h1>
 <h3 align="center">Aspiring Engineer | Python Learner | Data Science Explorer | NHITM'28 </h3>
 <p align="center">
@@ -44,6 +48,19 @@
 
 ---
 
+## 🎓 Certificates
+
+| Program / Event                                         | Organizer                                           | Credential / Proof |
+|---------------------------------------------------------|-----------------------------------------------------|--------------------|
+| SQL Bootcamp                                            | LetsUpgrade                                         | _[Add Certificate](https://verify.letsupgrade.in/certificate/LUESQLJAN125378) |
+| Gen AI with Retrieval-Augmented Generation Workshop     | NHITM (for ADSA Students)                           | ![WhatsApp Image 2025-06-20 at 11 13 16_4a1b834b](https://github.com/user-attachments/assets/f911aa21-7320-457b-ab1a-541cea84bfc4)
+ |
+| C Programming Fundamentals                              | Simplilearn                                         | _[Add]_([https://simpli-web.app.link/e/Qqk8loKs9Ob](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIzMTM3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvNzY0MDMyNl83ODgyMzUxMTczMzU4OTM4Mjg2NC5wbmciLCJ1c2VybmFtZSI6Ik1hbnRoYW4gU2F0eWF3YW4gVGVyc2UifQ%3D%3D&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F5920%2FKick-start-your-programming-career-with-C%2Fcertificate%2Fdownload-skillup&%24web_only=true))            |
+| Python Basics                                           | Infosys_Springboard                                 | [_[Add](https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_auth_013204562301591552112_shared/1-282f7dba-7f0b-48de-8967-73ea80a02d6b.pdf)        |
+
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -53,12 +70,16 @@
 
 ---
 
-## 📌 Featured Projects
+## 🐍 30 Days Python Challenge – Tracker
 
-- 💼 [Grocery Store Management 🛒](https://github.com/ManthanTerse/Grocery-Store-Management)
-- 💡 [Who Wants to Be a Millionaire – Python Quiz Game](https://github.com/ManthanTerse/Who_Wants_To_Be_A_Millionare)
-- 📊 [Tip Calculator](https://github.com/ManthanTerse/Tip_Calculator)
+| Project Name                            | Status     | Link                                           |
+|----------------------------------------|------------|------------------------------------------------|
+| Who Wants To Be A Millionaire 🎮        | ✅ Complete | [View Project](https://github.com/manthanterse/millionaire-quiz-game) |
+| Tip Calculator 💸                       | ✅ Complete | [View Project](https://github.com/manthanterse/tip-calculator) |
+| Grocery Store Management 🛒            | ✅ Complete | [View Project](https://github.com/manthanterse/grocery-store-management) |
+| ...More projects coming every 3 days!  | 🚧 In Progress | - |
 
+> 🔔 *10 projects in 30 days. Stay tuned!*
 ---
 
 ## 💼 Connect with Me
