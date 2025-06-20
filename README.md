@@ -55,9 +55,9 @@
 
 ## 📌 Featured Projects
 
-- 💼 [Grocery Store Management 🛒](https://github.com/ManthanTerse/grocery-store-management)
-- 💡 [Who Wants to Be a Millionaire – Python Quiz Game](https://github.com/ManthanTerse/millionaire-quiz-game)
-- 📊 [Tip Calculator](https://github.com/ManthanTerse/tip-calculator)
+- 💼 [Grocery Store Management 🛒](https://github.com/ManthanTerse/Grocery-Store-Management)
+- 💡 [Who Wants to Be a Millionaire – Python Quiz Game](https://github.com/ManthanTerse/Who_Wants_To_Be_A_Millionare)
+- 📊 [Tip Calculator](https://github.com/ManthanTerse/Tip_Calculator)
 
 ---
 
