@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIP9FnU07I3VfaRa/giphy.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
+
 
 <h1 align="center">Welcome to My GitHub 👋</h1>
 <h3 align="center">I'm Manthan Terse — Python Developer | Student Engineer | AI & Data Science Explorer | NHITM'28 🚀</h3>
@@ -53,9 +54,9 @@
 
 | Program / Event                                         | Organizer                                           | Credential / Proof |
 |---------------------------------------------------------|-----------------------------------------------------|--------------------|
-| SQL Bootcamp                                            | LetsUpgrade                                         | (![SQL bootcamp](https://github.com/user-attachments/assets/5e235b0f-5426-44c0-b0ba-36801f1b2463)|
-| Gen AI with Retrieval-Augmented Generation Workshop     | NHITM (for ADSA Students)                           | ![WhatsApp Image 2025-06-20 at 11 13 16_4a1b834b](https://github.com/user-attachments/assets/f911aa21-7320-457b-ab1a-541cea84bfc4) |
-| C Programming Fundamentals                              | Simplilearn                                         | (![image](https://github.com/user-attachments/assets/0bcb3bb9-8fda-42a9-a903-e1764c341dfc) |
+| SQL Bootcamp                                            | LetsUpgrade                                         | ![SQL bootcamp](https://github.com/user-attachments/assets/5e235b0f-5426-44c0-b0ba-36801f1b2463)|
+| Gen AI with Retrieval-Augmented Generation Workshop     | NHITM (ADSA Students)                           | ![WhatsApp Image 2025-06-20 at 11 13 16_4a1b834b](https://github.com/user-attachments/assets/f911aa21-7320-457b-ab1a-541cea84bfc4) |
+| C Programming Fundamentals                              | Simplilearn                                         | ![image](https://github.com/user-attachments/assets/0bcb3bb9-8fda-42a9-a903-e1764c341dfc) |
 | Python Basics                                           | Infosys_Springboard                                 | ![image](https://github.com/user-attachments/assets/4287cb29-500b-4e94-a764-cd412f4981f4)  |
 
 
