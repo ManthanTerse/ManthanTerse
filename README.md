@@ -52,12 +52,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManthanTerse&show_icons=true&theme=default" height="150px"/>
-  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanTerse&repo=drink-water-reminder-app&layout=compact)](https://github.com/ManthanTerse/Drink-Water-Reminder-App)" />
-</p>
+![Manthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManthanTerse&show_icons=true&theme=radical)
+
+---
+
+## 🧠 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanTerse&layout=compact&hide=Jupyter%20Notebook)](https://github.com/manthanterse)
+
+---
 
 ---
 
