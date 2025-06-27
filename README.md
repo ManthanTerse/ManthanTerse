@@ -60,9 +60,7 @@
 
 ## 🧠 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanTerse&layout=compact&hide=Jupyter%20Notebook)](https://github.com/manthanterse)
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanTerse&layout=compact)](https://github.com/ManthanTerse)
 
 ---
 
