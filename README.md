@@ -56,8 +56,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ManthanTerse&show_icons=true&theme=default" height="150px"/>
-</p>
-<p align="left">
   <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanTerse&repo=drink-water-reminder-app&layout=compact)](https://github.com/ManthanTerse/Drink-Water-Reminder-App)" />
 </p>
 
