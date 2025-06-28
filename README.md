@@ -46,18 +46,6 @@
 
 ---
 
-## 🎓 Certificates
-
-| Program / Event                                         | Organizer                                           | Credential / Proof |
-|---------------------------------------------------------|-----------------------------------------------------|--------------------|
-| SQL Bootcamp                                            | LetsUpgrade                                         | ![SQL bootcamp](https://github.com/user-attachments/assets/5e235b0f-5426-44c0-b0ba-36801f1b2463)|
-| Gen AI with Retrieval-Augmented Generation Workshop     | NHITM (ADSA Students)                           | ![WhatsApp Image 2025-06-20 at 11 13 16_4a1b834b](https://github.com/user-attachments/assets/f911aa21-7320-457b-ab1a-541cea84bfc4) |
-| C Programming Fundamentals                              | Simplilearn                                         | ![image](https://github.com/user-attachments/assets/0bcb3bb9-8fda-42a9-a903-e1764c341dfc) |
-| Python Basics                                           | Infosys_Springboard                                 | ![image](https://github.com/user-attachments/assets/4287cb29-500b-4e94-a764-cd412f4981f4)  |
-
-
----
-
 ## 📊 GitHub Stats
 
 ![Manthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManthanTerse&show_icons=true&theme=radical)
@@ -81,6 +69,36 @@
 | ...More projects coming every 3 days!  | 🚧 In Progress | - |
 
 > 🔔 *10 projects in 30 days. Stay tuned!*
+
+---
+
+## 🤝 Volunteering Experience
+
+### 🧑‍💼 Human Resources Coordinator – Job Fair 2025  
+**📅 Date:** 8th February 2025  
+**🏢 Organization:** Netstar Infotech  
+**📍 Organized by:** Siddharth Ovalekar Foundation & Dr. Shrikant Shinde, in collaboration with the **Maharashtra State Government** and **New Horizon Institute of Technology and Management**
+
+> Volunteered as an **HR Coordinator**, supporting recruitment operations for Netstar Infotech during the Job Fair 2025.  
+
+- ![HRTeam](https://github.com/user-attachments/assets/706d673a-12f6-4b6b-9cb4-beafedea9074)
+- Guided candidates throughout the job fair
+- Facilitated communication between recruiters and job seekers  
+- Ensured smooth and professional operations across event zones  
+- Contributed to a positive and efficient hiring experience for employers and applicants
+
+---
+
+## 🎓 Certificates
+
+| Program / Event                                         | Organizer                                           | Credential / Proof |
+|---------------------------------------------------------|-----------------------------------------------------|--------------------|
+| SQL Bootcamp                                            | LetsUpgrade                                         | ![SQL bootcamp](https://github.com/user-attachments/assets/5e235b0f-5426-44c0-b0ba-36801f1b2463)|
+| Gen AI with Retrieval-Augmented Generation Workshop     | NHITM (ADSA Students)                           | ![WhatsApp Image 2025-06-20 at 11 13 16_4a1b834b](https://github.com/user-attachments/assets/f911aa21-7320-457b-ab1a-541cea84bfc4) |
+| C Programming Fundamentals                              | Simplilearn                                         | ![image](https://github.com/user-attachments/assets/0bcb3bb9-8fda-42a9-a903-e1764c341dfc) |
+| Python Basics                                           | Infosys_Springboard                                 | ![image](https://github.com/user-attachments/assets/4287cb29-500b-4e94-a764-cd412f4981f4)  |
+
+
 ---
 
 ## 💼 Connect with Me
