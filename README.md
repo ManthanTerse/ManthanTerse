@@ -82,11 +82,12 @@
 > Volunteered as an **HR Coordinator**, supporting recruitment operations for Netstar Infotech during the Job Fair 2025.  
 <p align="center">
 - <img src="https://github.com/user-attachments/assets/706d673a-12f6-4b6b-9cb4-beafedea9074" alt="HRTeam" width="400"/>
+</p>
 - Guided candidates throughout the job fair
 - Facilitated communication between recruiters and job seekers  
 - Ensured smooth and professional operations across event zones  
 - Contributed to a positive and efficient hiring experience for employers and applicants
-</p>
+
 ---
 
 ## 🎓 Certificates
