@@ -6,7 +6,7 @@
 
 <p align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=ManthanTerse?&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ManthanTerse&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/ManthanTerse?style=social)
 ![Stars](https://img.shields.io/github/stars/ManthanTerse?style=social)
 
