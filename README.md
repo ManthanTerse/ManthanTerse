@@ -65,7 +65,8 @@
 | Who Wants To Be A Millionaire 🎮        | ✅ Complete | [View Project](https://github.com/ManthanTerse/Who_Wants_To_Be_A_Millionare) |
 | Tip Calculator 💸                       | ✅ Complete | [View Project](https://github.com/ManthanTerse/Tip_Calculator) |
 | Grocery Store Management 🛒            | ✅ Complete | [View Project](https://github.com/manthanterse/grocery-store-management) |
-| :droplet:Drink Water Reminder App       | ✅ Complete | [View Project](https://github.com/manthanterse/Drink-Water-Reminder-App) | 
+| :droplet:Drink Water Reminder App       | ✅ Complete | [View Project](https://github.com/manthanterse/Drink-Water-Reminder-App) |
+| 🚀 CLI Utility Tools – Calculator & Currency Converter  | In Process... | [View Project](https://github.com/ManthanTerse/CLI-Python-Tools) |
 | ...More projects coming every 3 days!  | 🚧 In Progress | - |
 
 > 🔔 *10 projects in 30 days. Stay tuned!*
