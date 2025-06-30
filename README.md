@@ -4,14 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub+Profile!%F0%9F%91%8D">
 </p>
 
-<p align="center">
+<h3 align="center">
   
 ![GitHub followers](https://img.shields.io/github/followers/ManthanTerse?style=social)
-![Stars](https://img.shields.io/github/stars/ManthanTerse?style=social)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ManthanTerse&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
-</p>
+![Stars](https://img.shields.io/github/stars/ManthanTerse?style=social)     
+[![GitHub Streak](https://streak-stats.demolab.com?user=ManthanTerse&theme=dark&hide_border=false)](https://git.io/streak-stats)
+</h3>
 
 ---
 
@@ -42,20 +40,19 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Manthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManthanTerse&show_icons=true&theme=radical)
+![Manthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManthanTerse&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🧠 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanTerse&layout=compact)](https://github.com/ManthanTerse)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanTerse&layout=donut)
 
 ---
 
@@ -67,7 +64,7 @@
 | Tip Calculator 💸                       | ✅ Complete | [View Project](https://github.com/ManthanTerse/Tip_Calculator) |
 | Grocery Store Management 🛒            | ✅ Complete | [View Project](https://github.com/manthanterse/grocery-store-management) |
 | :droplet:Drink Water Reminder App       | ✅ Complete | [View Project](https://github.com/manthanterse/Drink-Water-Reminder-App) |
-| 🚀 CLI Utility Tools – Calculator & Currency Converter  | In Process... | [View Project](https://github.com/ManthanTerse/CLI-Python-Tools) |
+| 🚀 CLI Utility Tools – Calculator & Currency Converter  | ✅ Complete | [View Project](https://github.com/ManthanTerse/CLI-Python-Tools) |
 | ...More projects coming every 3 days!  | 🚧 In Progress | - |
 
 > 🔔 *10 projects in 30 days. Stay tuned!*
