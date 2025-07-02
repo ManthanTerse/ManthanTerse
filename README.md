@@ -9,6 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ManthanTerse?style=social)
 ![Stars](https://img.shields.io/github/stars/ManthanTerse?style=social)     
 [![GitHub Streak](https://streak-stats.demolab.com?user=ManthanTerse&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
 </h3>
 
 ---
@@ -64,8 +65,9 @@
 | Who Wants To Be A Millionaire 🎮        | ✅ Complete | [View Project](https://github.com/ManthanTerse/Who_Wants_To_Be_A_Millionare) |
 | Tip Calculator 💸                       | ✅ Complete | [View Project](https://github.com/ManthanTerse/Tip_Calculator) |
 | Grocery Store Management 🛒            | ✅ Complete | [View Project](https://github.com/manthanterse/grocery-store-management) |
-| :droplet:Drink Water Reminder App       | ✅ Complete | [View Project](https://github.com/manthanterse/Drink-Water-Reminder-App) |
-| 🚀 CLI Utility Tools – Calculator & Currency Converter  | ✅ Complete | [View Project](https://github.com/ManthanTerse/CLI-Python-Tools) |
+| Drink Water Reminder App  :droplet:   | ✅ Complete | [View Project](https://github.com/manthanterse/Drink-Water-Reminder-App) |
+| CLI Utility Tools – Calculator & Currency Converter 🚀  | ✅ Complete | [View Project](https://github.com/ManthanTerse/CLI-Python-Tools) |
+| Dice Rolling simulator 🎲   | In progress ... | [View Project](https://github.com/ManthanTerse/Dice_Rolling_Simulator) |
 | ...More projects coming every 3 days!  | 🚧 In Progress | - |
 
 > 🔔 *10 projects in 30 days. Stay tuned!*
@@ -78,21 +80,8 @@
 **📅 Date:** 8th February 2025  
 **🏢 Organization:** Netstar Infotech  
 **📍 Organized by:** Siddharth Ovalekar Foundation & Dr. Shrikant Shinde, in collaboration with the **Maharashtra State Government** and **New Horizon Institute of Technology and Management**
-
 > Volunteered as an **HR Coordinator**, supporting recruitment operations for Netstar Infotech during the Job Fair 2025.  
-<p align="center">
-- <img src="https://github.com/user-attachments/assets/706d673a-12f6-4b6b-9cb4-beafedea9074" alt="HRTeam" width="400"/>
-</p>
 
-- Guided candidates throughout the job fair
-
-- Facilitated communication between recruiters and job seekers  
-
-- Ensured smooth and professional operations across event zones  
-
-- Contributed to a positive and efficient hiring experience for employers and applicants
-
----
 
 ## 🎓 Certificates
 
