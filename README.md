@@ -55,7 +55,7 @@
 
 ## 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanTerse&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanTerse&layout=donut&hide=jupyter%20notebook)
 
 ---
 
