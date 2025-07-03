@@ -8,8 +8,8 @@
   
 ![GitHub followers](https://img.shields.io/github/followers/ManthanTerse?style=social)
 ![Stars](https://img.shields.io/github/stars/ManthanTerse?style=social)  
-   
-[![GitHub Streak](https://streak-stats.demolab.com?user=ManthanTerse&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ManthanTerse&theme=dark&hide_border=false)](https://streak-stats.demolab.com?user=ManthanTerse)
 
 </h3>
 
@@ -68,7 +68,7 @@
 | Grocery Store Management 🛒            | ✅ Complete | [View Project](https://github.com/manthanterse/grocery-store-management) |
 | Drink Water Reminder App  :droplet:   | ✅ Complete | [View Project](https://github.com/manthanterse/Drink-Water-Reminder-App) |
 | CLI Utility Tools – Calculator & Currency Converter 🚀  | ✅ Complete | [View Project](https://github.com/ManthanTerse/CLI-Python-Tools) |
-| Dice Rolling simulator 🎲   | In progress ... | [View Project](https://github.com/ManthanTerse/Dice_Rolling_Simulator) |
+| Dice Rolling simulator 🎲   | ✅ Complete | [View Project](https://github.com/ManthanTerse/Dice_Rolling_Simulator) |
 | ...More projects coming every 3 days!  | 🚧 In Progress | - |
 
 > 🔔 *10 projects in 30 days. Stay tuned!*
