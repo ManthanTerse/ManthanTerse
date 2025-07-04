@@ -1,7 +1,7 @@
 <h1 align="center">Hello Connections 👋</h1>
 <h3 align="center">I'm Manthan Terse — Python Developer | Student Engineer | AI & Data Science Explorer | NHITM'28 🚀</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub+Profile!%F0%9F%91%8D">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub+Profile!">
 </p>
 
 <h3 align="center">
