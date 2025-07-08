@@ -14,9 +14,6 @@
   
 ![GitHub followers](https://img.shields.io/github/followers/ManthanTerse?style=social)
 ![Stars](https://img.shields.io/github/stars/ManthanTerse?style=social)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ManthanTerse&theme=dark&hide_border=false)](https://streak-stats.demolab.com?user=ManthanTerse)
-
 </h3>
 
 ---
