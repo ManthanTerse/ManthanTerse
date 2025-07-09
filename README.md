@@ -72,7 +72,7 @@
 | Drink Water Reminder App  :droplet:   | ✅ Complete | [View Project](https://github.com/manthanterse/Drink-Water-Reminder-App) |
 | CLI Utility Tools – Calculator & Currency Converter 🚀  | ✅ Complete | [View Project](https://github.com/ManthanTerse/CLI-Python-Tools) |
 | Dice Rolling simulator 🎲   | ✅ Complete | [View Project](https://github.com/ManthanTerse/Dice_Rolling_Simulator) |
-| PDF Merger  | ✅ Complete | [View Project](https://github.com/ManthanTerse/PDF_Merger) |
+| PDF Merger 🗃️ | ✅ Complete | [View Project](https://github.com/ManthanTerse/PDF_Merger) |
 | Bank Account System 🏦 | ✅ Complete | [View Project](https://github.com/ManthanTerse/Bank_Account_System) |
 | ...More projects coming every 3 days!  | 🚧 In Progress | - |
 
