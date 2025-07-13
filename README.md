@@ -74,7 +74,7 @@
 | Dice Rolling simulator 🎲   | ✅ Complete | [View Project](https://github.com/ManthanTerse/Dice_Rolling_Simulator) |
 | PDF Merger 🗃️ | ✅ Complete | [View Project](https://github.com/ManthanTerse/PDF_Merger) |
 | Bank Account System 🏦(Wisdom Bank) | ✅ Complete | [View Project](https://github.com/ManthanTerse/Bank_Account_System) |
-| News API Bot (NewsPy) 📰 | ✅ Complete | [View Project](https://github.com/ManthanTerse/News_API) |
+| News API Bot (NewsOrbit) 📰 | ✅ Complete | [View Project](https://github.com/ManthanTerse/News_API) |
 | ...More projects coming every 3 days!  | 🚧 In Progress | - |
 
 > 🔔 *10 projects in 30 days. Stay tuned!*
