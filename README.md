@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManthanTerse&show_icons=true&theme=tokyonight)
 
 ---
 
