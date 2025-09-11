@@ -3,7 +3,7 @@
   
   — 🎓 GitHub Student Developer Pack Member  
  
-   Python Developer | Student Engineer | AI & Data Science Explorer | NHITM'28 🚀
+   Python Developer | BSKF's Content Writing Intern | AI & Data Science Explorer | NHITM'28 
   
   </h3>
 <p align="center">
@@ -22,7 +22,7 @@
 
 - 🎓 I’m currently a student at **New Horizon Institute of Technology and Management**
 - 💡 Passionate about solving real-world problems using code
-- 🐍 Currently exploring Python through my **30 Days Python Challenge → 10 Projects**
+- 🐍 Currently explored Python through my **30 Days Python Challenge → 10 Projects**
 - ⚡ I enjoy building beginner-friendly projects that strengthen my fundamentals
 - 📚 Interests: Python, Data Structures , Mathematics , SQL ..
 
@@ -99,6 +99,13 @@
 | C Programming Fundamentals                              | Simplilearn                                         | 
 | Python Basics                                           | Infosys_Springboard                                 | 
 
+
+---
+
+## 🧪 Experience:
+
+ <h2>BSKF (Bangla Susthayi Krishi Foundation) 🌾:</h2>
+  Content Writing Intern - 1st Sept 2025 - 30th Sept 2025 (Duration : 1 month)
 
 ---
 
