@@ -3,7 +3,7 @@
   
   — 🎓 GitHub Student Developer Pack Member  
  
-   Python Developer | BSKF's Content Writing & Graphics Designing Intern | AI & Data Science Explorer | NHITM'28 
+   Python Developer | BSKF's Content Writing & Graphic Design Intern | AI & Data Science Explorer | NHITM'28 
   
   </h3>
 <p align="center">
