@@ -50,18 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManthanTerse&show_icons=true&theme=tokyonight)
-
----
-
-## 🧠 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanTerse&layout=donut&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=donut&langs_count=8&v=2)
-
----
-
 ## 🐍 30 Days Python Challenge – Tracker
 
 | Project Name                            | Status     | Link                                           |
