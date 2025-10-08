@@ -1,10 +1,8 @@
 <h1 align="center">Hello Connections 👋</h1>
 <h3 align="center">I'm Manthan Terse 
-  
   — 🎓 GitHub Student Developer Pack Member  
  
-   Python Developer | BSKF's Content Writing & Graphic Design Intern | AI & Data Science Explorer | NHITM'28 
-  
+   Python Developer | BSKF's Content Writing Intern | AI & Data Science Explorer | NHITM'28 
   </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub+Profile!">
@@ -81,7 +79,7 @@
 | Program / Event                                         | Organizer                                           | 
 |---------------------------------------------------------|-----------------------------------------------------|
 | SQL Bootcamp                                            | LetsUpgrade                                         | 
-| Gen AI with Retrieval-Augmented Generation Workshop     | NHITM (ADSA Students)                           |
+| Gen AI with Retrieval-Augmented Generation Workshop     | NHITM (ADSA Students)                               |
 | C Programming Fundamentals                              | Simplilearn                                         | 
 | Python Basics                                           | Infosys_Springboard                                 | 
 
@@ -91,7 +89,7 @@
 ## 🧪 Experience:
 
  <h2>BSKF (Bangla Susthayi Krishi Foundation) 🌾:</h2>
-  Content Writing & Graphics Designing Intern - 1st Sept 2025 - 30th Sept 2025 (Duration : 1 month)
+  Content Writing Intern - 1st Sept 2025 - 30th Sept 2025 (Duration : 1 month)
 
 ---
 
