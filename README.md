@@ -86,7 +86,11 @@
 ## 🧪 Experience:
 
  <h2>BSKF (Bangla Susthayi Krishi Foundation) 🌾:</h2>
-  Content Writing Intern - 1st Sept 2025 - 30th Sept 2025 (Duration : 1 month)
+  Content Writing Intern - 3rd Sept 2025 - 2nd Oct 2025 (Duration : 1 month)
+  <br>
+  Completion Certificate :
+  [Internship_Completed.pdf](https://github.com/user-attachments/files/22990067/Internship.pdf)
+
 
 ---
 
