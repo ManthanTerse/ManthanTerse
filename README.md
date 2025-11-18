@@ -2,7 +2,7 @@
 <h3 align="center">I'm Manthan Terse 
   — 🎓 GitHub Student Developer Pack Member  
  
-   Python Developer | BSKF's Content Writing Intern | AI & Data Science Explorer | NHITM'28 
+   Python Developer | BSKF's Ex-Content Writing Intern | AI & Data Science Explorer | NHITM'28 
   </h3>
 
 <h3 align="center">
@@ -79,7 +79,7 @@
 | Gen AI with Retrieval-Augmented Generation Workshop     | NHITM (ADSA Students)                               |
 | C Programming Fundamentals                              | Simplilearn                                         | 
 | Python Basics                                           | Infosys_Springboard                                 | 
-
+| Python For Data Science                                 | NPTEL (In Collaboration with IIT Madras)            | 
 
 ---
 
