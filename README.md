@@ -2,7 +2,7 @@
 <h3 align="center">I'm Manthan Terse 
   — 🎓 GitHub Student Developer Pack Member  
  
-   Python Developer | BSKF's Ex-Content Writing Intern | AI & Data Science Explorer | NHITM'28 
+   Python Developer | BSKF's Ex-Content Writing Intern | AI & Data Science | NHITM'28 
   </h3>
 
 <h3 align="center">
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
@@ -86,7 +86,8 @@
   Content Writing Intern - 3rd Sept 2025 - 2nd Oct 2025 (Duration : 1 month)
   <br>
   Completion Certificate :
-  [Internship_Completed.pdf](https://github.com/user-attachments/files/22990067/Internship.pdf)
+  <br>
+  <img width="554" height="407" alt="image" src="https://github.com/user-attachments/assets/a3f93639-ea93-4fe9-80da-d536b3f2d440" />
 
 
 ---
