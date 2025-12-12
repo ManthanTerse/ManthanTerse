@@ -8,7 +8,6 @@
 <h3 align="center">
   
 ![GitHub followers](https://img.shields.io/github/followers/ManthanTerse?style=social)
-![Stars](https://img.shields.io/github/stars/ManthanTerse?style=social)  
 </h3>
 
 ---
@@ -105,7 +104,5 @@
 </a>
 
 ---
-
-⭐ **Thanks for visiting!** Keep coding and stay curious.  
 _“Learning never exhausts the mind.” – Leonardo da Vinci_
 
