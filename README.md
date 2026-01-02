@@ -1,6 +1,5 @@
 <h1 align="center">Hello Connections 👋</h1>
 <h3 align="center">I'm Manthan Terse 
-  — 🎓 GitHub Student Developer Pack Member  
  
    Python Developer | BSKF's Ex-Content Writing Intern | AI & Data Science | NHITM'28 
   </h3>
