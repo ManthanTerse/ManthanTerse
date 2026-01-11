@@ -51,7 +51,7 @@
 | PDF Merger 🗃️ | ✅ Complete | [View Project](https://github.com/ManthanTerse/PDF_Merger) |
 | Bank Account System 🏦(Wisdom Bank) | ✅ Complete | [View Project](https://github.com/ManthanTerse/Bank_Account_System) |
 | News API Bot (NewsOrbit) 📰 | ✅ Complete | [View Project](https://github.com/ManthanTerse/News_API) |
-| Flask Weather App 📰 | ✅ Complete | [View Project](https://github.com/ManthanTerse/Flask_Weather_AppI) |
+| Flask Weather App 📰 | ✅ Complete | [View Project](https://github.com/ManthanTerse/Flask_Weather_App) |
 
 > 🔔 *10 projects in 30 days... completed!*
 
