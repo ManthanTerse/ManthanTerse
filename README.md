@@ -1,107 +1,165 @@
-<h1 align="center">Hello Connections 👋</h1>
-<h3 align="center">I'm Manthan Terse 
- 
-   Python Developer | BSKF's Ex-Content Writing Intern | AI & Data Science | NHITM'28 
-  </h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Manthan%20Terse&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<h3 align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/ManthanTerse?style=social)
-</h3>
+<h3 align="center">🚀 Python Developer | Open Source Contributor | AI & Data Science Enthusiast</h3>
 
----
-
-## 🚀 About Me
-
-- 🎓 I’m currently a student at **New Horizon Institute of Technology and Management**
-- 💡 Passionate about solving real-world problems using code
-- 🐍 Currently explored Python through my **30 Days Python Challenge → 10 Projects**
-- ⚡ I enjoy building beginner-friendly projects that strengthen my fundamentals
-- 📚 Interests: Python, Data Structures , Mathematics , SQL ..
-
----
-
-## 🛠️ Languages and Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=green" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> 
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ManthanTerse?style=social" />
 </p>
 
 ---
 
-## 🐍 30 Days Python Challenge – Tracker
+<h3 align="center">📊 Contribution Activity</h3>
 
-| Project Name                            | Status     | Link                                           |
-|----------------------------------------|------------|------------------------------------------------|
-| Who Wants To Be A Millionaire 🎮        | ✅ Complete | [View Project](https://github.com/ManthanTerse/Who_Wants_To_Be_A_Millionare) |
-| Tip Calculator 💸                       | ✅ Complete | [View Project](https://github.com/ManthanTerse/Tip_Calculator) |
-| Grocery Store Management 🛒            | ✅ Complete | [View Project](https://github.com/manthanterse/grocery-store-management) |
-| Drink Water Reminder App  :droplet:   | ✅ Complete | [View Project](https://github.com/manthanterse/Drink-Water-Reminder-App) |
-| CLI Utility Tools – Calculator & Currency Converter 🚀  | ✅ Complete | [View Project](https://github.com/ManthanTerse/CLI-Python-Tools) |
-| Dice Rolling simulator 🎲   | ✅ Complete | [View Project](https://github.com/ManthanTerse/Dice_Rolling_Simulator) |
-| PDF Merger 🗃️ | ✅ Complete | [View Project](https://github.com/ManthanTerse/PDF_Merger) |
-| Bank Account System 🏦(Wisdom Bank) | ✅ Complete | [View Project](https://github.com/ManthanTerse/Bank_Account_System) |
-| News API Bot (NewsOrbit) 📰 | ✅ Complete | [View Project](https://github.com/ManthanTerse/News_API) |
-| Flask Weather App 📰 | ✅ Complete | [View Project](https://github.com/ManthanTerse/Flask_Weather_App) |
+<p align="center">
+  <img src="github_streak.png" alt="GitHub Streak Stats" width="700"/>
+</p>
 
-> 🔔 *10 projects in 30 days... completed!*
+<p align="center">
+  <i>Consistency > Intensity — Building every day 🚀</i>
+</p>
 
 ---
 
-## 🤝 Volunteering Experience
+## 👨‍💻 About Me
 
-### 🧑‍💼 Human Resources Coordinator – Job Fair 2025  
-**📅 Date:** 8th February 2025  
-**🏢 Organization:** Netstar Infotech  
-**📍 Organized by:** Siddharth Ovalekar Foundation & Dr. Shrikant Shinde, in collaboration with the **Maharashtra State Government** and **New Horizon Institute of Technology and Management**
-> Volunteered as an **HR Coordinator**, supporting recruitment operations for Netstar Infotech during the Job Fair 2025.  
-
-
-## 🎓 Certificates
-
-| Program / Event                                         | Organizer                                           | 
-|---------------------------------------------------------|-----------------------------------------------------|
-| SQL Bootcamp                                            | LetsUpgrade                                         | 
-| Gen AI with Retrieval-Augmented Generation Workshop     | NHITM (ADSA Students)                               |
-| C Programming Fundamentals                              | Simplilearn                                         | 
-| Python Basics                                           | Infosys_Springboard                                 | 
-| Python For Data Science                                 | NPTEL (In Collaboration with IIT Madras)            | 
+- 🎓 Student at **New Horizon Institute of Technology and Management (NHITM'28)**
+- 💡 Passionate about solving **real-world problems using code**
+- 🧠 Focused on **Data Structures, Python & Problem Solving**
+- 🌍 Actively contributing to **Open Source**
+- ⚡ I build → improve → and scale projects
 
 ---
 
-## 🧪 Experience:
+## 🛠️ Tech Stack
 
- <h2>BSKF (Bangla Susthayi Krishi Foundation) 🌾:</h2>
-  Content Writing Intern - 3rd Sept 2025 - 2nd Oct 2025 (Duration : 1 month)
-  <br>
-  Completion Certificate :
-  <br>
-  <img width="554" height="407" alt="image" src="https://github.com/user-attachments/assets/a3f93639-ea93-4fe9-80da-d536b3f2d440" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,flask,git,github,vscode" />
+</p>
 
 ---
 
-## 💼 Connect with Me
+## 🌍 Open Source Contributions
 
-<a href="https://www.linkedin.com/in/manthanterse/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:tersemanthan2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/manthan_terse/">
-  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
+### 📌 commitpulse (Next.js Project)
+
+- 🔗 Repo: https://github.com/JhaSourav07/commitpulse  
+- 🚀 Built a complete **/documentation page** inside the app  
+
+#### 💡 What I Did:
+- Added **Quick Start + Parameter Table + Theme Gallery + Examples**
+- Fixed **API & cache logic alignment**
+- Improved **UI consistency & responsiveness**
+- Implemented **secure external links**
+- Refactored code using **DRY principles**
+- Resolved **CI pipeline issues (lint, format, build)**
+
+#### 🤝 Impact:
+- Worked through multiple review cycles with maintainers  
+- Ensured production-level code quality  
+- ✅ PR Merged (#9)
 
 ---
-_“Learning never exhausts the mind.” – Leonardo da Vinci_
 
+### 📌 LLaVA-Mistral-7b-Chatbot
+
+- 🔗 Repo: https://github.com/adhithim09/LLaVa-Mistral-7b-Chatbot  
+- 🛠 Contribution: Designed and added a **CONTRIBUTION.md guide**
+
+#### 💡 What I Did:
+- Structured a complete **contributor onboarding workflow**
+- Defined **setup instructions, contribution flow and PR standards**
+- Standardized guidelines to align with project structure and practices
+
+#### 🎯 Why It Matters:
+- Reduced friction for new contributors entering the project  
+- Improved clarity in contribution process → fewer invalid PRs  
+- Helps maintainers scale contributions efficiently  
+
+- ✅ PR Merged (#9)
+---
+
+## 🐍 30 Days Python Challenge – 10 Projects
+
+| Project | Description |
+|--------|------------|
+| 🎮 Millionaire Game | CLI quiz game inspired by KBC |
+| 💸 Tip Calculator | Smart bill splitting tool |
+| 🛒 Grocery Manager | Inventory + billing system |
+| 💧 Water Reminder | Health tracking CLI tool |
+| 🚀 CLI Tools | Calculator + Currency converter |
+| 🎲 Dice Simulator | Random logic simulation |
+| 🗃️ PDF Merger | File handling automation |
+| 🏦 Bank System | OOP-based banking system |
+| 📰 News API Bot | Real-time news fetcher |
+| 🌦️ Weather App | Flask-based weather app |
+
+> 🔥 Built 10 projects in 30 days
+
+---
+
+## 📈 Focus
+
+- 🚀 Building real-world projects  
+- 🌍 Contributing to open source  
+- 🧠 Strengthening problem-solving & DSA  
+- ⚙️ Writing clean, production-ready code  
+
+---
+
+## 🧠 Currently Working On
+
+- 📌 Full Stack Project: **Animal Health Care Tracker**
+- ⚙️ Strengthening **Data Structures & Problem Solving**
+- 🌐 More **Open Source Contributions (NSOC)**
+
+---
+
+## 🎓 Certifications
+
+- 🧾 SQL Bootcamp – LetsUpgrade  
+- 🤖 Gen AI Workshop – NHITM  
+- 💻 C Programming – Simplilearn  
+- 🐍 Python Basics – Infosys Springboard  
+- 📊 Python for Data Science – NPTEL (IIT Madras)  
+
+---
+
+## 🧪 Experience
+
+### 🌾 BSKF (Bangla Susthayi Krishi Foundation)
+**Content Writing Intern**  
+📅 Sept 2025 – Oct 2025  
+
+- Created structured content for agriculture-based initiatives  
+- Improved clarity in technical communication  
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/manthanterse/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tersemanthan2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/manthan_terse/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Quote I Live By
+
+> “Learning never exhausts the mind.”
+                    ~Leonardo da Vinci
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider following me!
+</p>
