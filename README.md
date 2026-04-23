@@ -13,7 +13,7 @@
 <h3 align="center">📊 Contribution Activity</h3>
 
 <p align="center">
-  <img src="github_streak.png" alt="GitHub Streak Stats" width="700"/>
+  <img src="https://commitpulse.vercel.app/api/streak?user=ManthanTerse&theme=neon" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,flask,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,bootstrap,flask,opencv,git,github,vscode" />
 </p>
 
 ---
