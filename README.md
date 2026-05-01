@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/ManthanTerse?style=social" />
 </p>
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <h3 align="center">📊 Contribution Activity</h3>
 
@@ -20,7 +20,7 @@
   <i>Consistency > Intensity — Building every day 🚀</i>
 </p>
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 👨‍💻 About Me
 
@@ -30,15 +30,15 @@
 - 🌍 Actively contributing to **Open Source**
 - ⚡ I build → improve → and scale projects
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,bootstrap,flask,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,c,html,css,bootstrap,flask,opencv,git,github,vscode" />
 </p>
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🌍 Open Source Contributions
 
@@ -57,8 +57,9 @@
 
 #### 🤝 Impact:
 - Worked through multiple review cycles with maintainers  
-- Ensured production-level code quality  
-- ✅ PR Merged (#9)
+- Ensured production-level code quality
+  
+- ✅ PR Merged (#7 & #9)
 
 ---
 
@@ -75,10 +76,24 @@
 #### 🎯 Why It Matters:
 - Reduced friction for new contributors entering the project  
 - Improved clarity in contribution process → fewer invalid PRs  
-- Helps maintainers scale contributions efficiently  
+- Helps maintainers scale contributions efficiently
 
 - ✅ PR Merged (#9)
+
 ---
+
+### 📌 Ai-Credit-Intelligence-Engine
+
+- 🔗 Repo: https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine
+- 🛠 Contribution: Designed and added a **CONTRIBUTION.md guide**
+
+#### 🎯 Why It Matters
+- Improved clarity in contribution process → fewer invalid PRs  
+- Helps maintainers scale contributions efficiently
+
+- ✅ PR Merged (#37)
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🐍 30 Days Python Challenge – 10 Projects
 
@@ -97,7 +112,7 @@
 
 > 🔥 Built 10 projects in 30 days
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 📈 Focus
 
@@ -106,7 +121,7 @@
 - 🧠 Strengthening problem-solving & DSA  
 - ⚙️ Writing clean, production-ready code  
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🧠 Currently Working On
 
@@ -114,7 +129,7 @@
 - ⚙️ Strengthening **Data Structures & Problem Solving**
 - 🌐 More **Open Source Contributions (NSOC)**
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🎓 Certifications
 
@@ -135,7 +150,7 @@
 - Created structured content for agriculture-based initiatives  
 - Improved clarity in technical communication  
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🤝 Connect With Me
 
@@ -151,7 +166,7 @@
   </a>
 </p>
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## ⚡ Quote I Live By
 
@@ -159,7 +174,3 @@
                     ~Leonardo da Vinci
 
 ---
-
-<p align="center">
-  ⭐ If you like my work, consider following me!
-</p>
