@@ -13,7 +13,7 @@
 <h3 align="center">📊 Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://commitpulse.vercel.app/api/streak?user=ManthanTerse&theme=ocean" />
+  <img src="https://commitpulse.vercel.app/api/streak?user=ManthanTerse&theme=ocean&speed=4s" />
 </p>
 
 <p align="center">
