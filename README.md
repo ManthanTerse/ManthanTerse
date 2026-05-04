@@ -16,6 +16,11 @@
   <img src="https://commitpulse.vercel.app/api/streak?user=ManthanTerse&theme=ocean&speed=4s" />
 </p>
 
+<div align="center">
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManthanTerse&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%"/> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManthanTerse&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=2ac3de&area=true&area_color=7aa2f7&hide_border=true"/>
+</div>
+
 <p align="center">
   <i>Consistency > Intensity — Building every day 🚀</i>
 </p>
