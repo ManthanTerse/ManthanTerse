@@ -45,58 +45,27 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## 🌍 Open Source Contributions
+## 🌍 Open Source Contributions  
 
-### 📌 commitpulse (Next.js Project)
+### 📌 commitpulse (Next.js Project)  
+- 🔗 https://github.com/JhaSourav07/commitpulse  
+- Built full **/documentation page** (Quick Start, Params, Examples)  
+- Improved **UI, responsiveness, API alignment & security**  
+- Fixed **CI issues (lint, build, format)**  
+- Applied **DRY principles**  
+- ✅ PRs Merged: #7, #9  
 
-- 🔗 Repo: https://github.com/JhaSourav07/commitpulse  
-- 🚀 Built a complete **/documentation page** inside the app  
+### 📌 LLaVA-Mistral-7b-Chatbot  
+- 🔗 https://github.com/adhithim09/LLaVa-Mistral-7b-Chatbot  
+- Created **CONTRIBUTION.md guide** with setup & PR workflow  
+- Improved onboarding, reduced invalid PRs  
+- ✅ PR Merged: #9  
 
-#### 💡 What I Did:
-- Added **Quick Start + Parameter Table + Theme Gallery + Examples**
-- Fixed **API & cache logic alignment**
-- Improved **UI consistency & responsiveness**
-- Implemented **secure external links**
-- Refactored code using **DRY principles**
-- Resolved **CI pipeline issues (lint, format, build)**
-
-#### 🤝 Impact:
-- Worked through multiple review cycles with maintainers  
-- Ensured production-level code quality
-  
-- ✅ PR Merged (#7 & #9)
-
----
-
-### 📌 LLaVA-Mistral-7b-Chatbot
-
-- 🔗 Repo: https://github.com/adhithim09/LLaVa-Mistral-7b-Chatbot  
-- 🛠 Contribution: Designed and added a **CONTRIBUTION.md guide**
-
-#### 💡 What I Did:
-- Structured a complete **contributor onboarding workflow**
-- Defined **setup instructions, contribution flow and PR standards**
-- Standardized guidelines to align with project structure and practices
-
-#### 🎯 Why It Matters:
-- Reduced friction for new contributors entering the project  
-- Improved clarity in contribution process → fewer invalid PRs  
-- Helps maintainers scale contributions efficiently
-
-- ✅ PR Merged (#9)
-
----
-
-### 📌 Ai-Credit-Intelligence-Engine
-
-- 🔗 Repo: https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine
-- 🛠 Contribution: Designed and added a **CONTRIBUTION.md guide**
-
-#### 🎯 Why It Matters
-- Improved clarity in contribution process → fewer invalid PRs  
-- Helps maintainers scale contributions efficiently
-
-- ✅ PR Merged (#37)
+### 📌 Ai-Credit-Intelligence-Engine  
+- 🔗 https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine  
+- Added **CONTRIBUTION.md guide**  
+- Streamlined contribution process  
+- ✅ PR Merged: #37  
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
