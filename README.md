@@ -65,7 +65,13 @@
 - 🔗 https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine  
 - Added **CONTRIBUTION.md guide**  
 - Streamlined contribution process  
-- ✅ PR Merged: #37  
+- ✅ PR Merged: #37
+
+### 📌 Vector Social Media  
+- 🔗 https://github.com/Shivayan09/Vector-social-media/  
+- Implemented Comment Reporting System (Closes #107)  
+- Improved content moderation & user safety  
+- ✅ PR Merged: #107  
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
