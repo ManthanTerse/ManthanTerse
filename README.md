@@ -68,10 +68,16 @@
 - ✅ PR Merged: #37
 
 ### 📌 Vector Social Media  
-- 🔗 https://github.com/Shivayan09/Vector-social-media/  
+- 🔗 https://github.com/Shivayan09/Vector-social-media
 - Implemented Comment Reporting System (Closes #107)  
-- Improved content moderation & user safety  
-- ✅ PR Merged: #107  
+- Improved content moderation & user safety.  
+- ✅ PR Merged: #107
+
+### 📌QuickPDF
+- 🔗 https://github.com/JhaSourav07/QuickPDF 
+- Fixed: Text Button Not Working in Edit PDF Tool
+- Clicking the Text button enables text mode, user can click anywhere on PDF and add text.
+- ✅ PR Merged: #71
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
