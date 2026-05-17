@@ -18,7 +18,7 @@
 
 <div align="center">
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManthanTerse&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%"/> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManthanTerse&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=2ac3de&area=true&area_color=7aa2f7&hide_border=true"/>
+  <img width="1038" height="358" alt="image" src="https://github.com/user-attachments/assets/3fce3ab0-8a4d-44e4-ba83-4c8a21252e4a" />
 </div>
 
 <p align="center">
