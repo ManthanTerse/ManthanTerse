@@ -79,6 +79,29 @@
 - Clicking the Text button enables text mode, user can click anywhere on PDF and add text.
 - ✅ PR Merged: #71
 
+### 📌 UI Verse
+🔗 https://github.com/ui-verse/ui-verse
+
+- Fixed inconsistent sidebar behavior across component pages
+- Resolved CSS override issue causing sidebar labels to disappear
+- Improved responsive sidebar behavior for desktop and mobile views
+- Worked with shared stylesheets (`home.css`, `shared-page.css`)
+- Implemented maintainer-requested changes after review
+
+✅ PR Merged: #1176
+
+---
+
+### 📌 CricScope
+🔗 https://github.com/Arnav-Singh-5080/CricScope
+
+- Added comprehensive `skills.md` documentation for contributors
+- Improved onboarding experience for new open-source contributors
+- Documented technical and soft skills gained through project participation
+- Updated documentation based on maintainer review feedback
+
+✅ PR Merged: #17
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🐍 30 Days Python Challenge – 10 Projects
