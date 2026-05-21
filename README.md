@@ -53,7 +53,7 @@
 - Improved **UI, responsiveness, API alignment & security**  
 - Fixed **CI issues (lint, build, format)**  
 - Applied **DRY principles**  
-- ✅ PRs Merged: #7, #9  
+- ✅ PRs Merged: #7, #9, #51
 
 ### 📌 LLaVA-Mistral-7b-Chatbot  
 - 🔗 https://github.com/adhithim09/LLaVa-Mistral-7b-Chatbot  
@@ -89,8 +89,6 @@
 - Implemented maintainer-requested changes after review
 
 ✅ PR Merged: #1176
-
----
 
 ### 📌 CricScope
 🔗 https://github.com/Arnav-Singh-5080/CricScope
