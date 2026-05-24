@@ -33,14 +33,12 @@
 - 💡 Passionate about solving **real-world problems using code**
 - 🧠 Focused on **Data Structures, Python & Problem Solving**
 - 🌍 Actively contributing to **Open Source**
-- ⚡ I build → improve → and scale projects
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🛠️ Tech Stack
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,c,html,css,bootstrap,flask,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,c,html,css,bootstrap,flask,opencv,git" />
 </p>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
@@ -134,7 +132,7 @@
 
 - 📌 Full Stack Project: **Animal Health Care Tracker**
 - ⚙️ Strengthening **Data Structures & Problem Solving**
-- 🌐 More **Open Source Contributions (NSOC)**
+- 🌐 More **Open Source Contributions (NSOC and GSSoC)**
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
