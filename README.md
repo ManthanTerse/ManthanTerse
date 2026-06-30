@@ -9,12 +9,6 @@
 </p
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-<h3 align="center">📊 GitHub Stats</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=ManthanTerse&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <h3 align="center">📊 Contribution Activity</h3>
 
