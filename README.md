@@ -36,44 +36,47 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,ts,mysql" />
+<h2 align="center">💻 Languages</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,ts,mysql" />
 </p>
 
-## 🤖 AI / ML / Data Science
+<h2 align="center">🤖 AI / ML / Data Science</h2>
 
-<p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48"/>
+  
+  <img src="https://img.shields.io/badge/NLTK-154F6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gensim-3776AB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLTK-154F6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gensim-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="48" height="48"/>
+
+  <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48"/>
 
 </p>
 
-## 🌐 Web Development
+<h2 align="center">🌐 Web Development</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,html,css,bootstrap" />
-<img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,html,css,bootstrap" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
 </p>
 
-## 🛠️ Tools
+<h2 align="center">🛠️ Tools</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter"/>
+</p>
 </p>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
