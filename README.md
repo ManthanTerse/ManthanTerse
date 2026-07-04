@@ -36,9 +36,44 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## 🛠️ Tech Stack
+## 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,c,html,css,bootstrap,flask,opencv,git" />
+<img src="https://skillicons.dev/icons?i=python,c,ts,mysql" />
+</p>
+
+## 🤖 AI / ML / Data Science
+
+<p>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLTK-154F6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gensim-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square"/>
+
+</p>
+
+## 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,html,css,bootstrap" />
+<img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
+</p>
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter"/>
 </p>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
