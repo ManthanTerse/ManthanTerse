@@ -29,7 +29,7 @@ I'm a AI&DS student at **New Horizon Institute of Technology and Management (NHI
 - Working on improving file-overwriting behaviour across the project's save functions.
 
 
-**Merged Contributions:** [Explore My Merged Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AManthanTerse+is%3Amerged)
+**Merged Contributions:** [Explore My Merged Pull Requests](https://github.com/pulls/search?q=is%3Apr+author%3AManthanTerse+is%3Amerged+sort%3Aupdated-desc+-user%3AManthanTerse)
 
 ### 📚 Certifications
 
